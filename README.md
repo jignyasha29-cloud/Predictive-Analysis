@@ -1,8 +1,5 @@
 # Predictive-Analysis
-This project demonstrates how both coding-based tools (Python) and visual tools (SPSS Modeler) can be effectively used for data analysis. It highlights the importance of EDA in understanding real-world datasets before applying advanced analytics or machine learning.
-IBM SPSS Modeler is a powerful data analytics and data mining tool that allows users to perform data preparation, visualization, and predictive modeling through a visual, drag-and-drop interface. It enables users to analyze large datasets without requiring extensive programming knowledge.
+Python is a widely used programming language for data analysis and visualization. It provides powerful libraries such as Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and NumPy for numerical computations. Python allows flexible and detailed analysis of large datasets through coding, making it highly suitable for Exploratory Data Analysis (EDA).
+IBM SPSS Modeler is a visual data analytics tool that enables users to perform data preparation, exploration, and predictive modeling using a drag-and-drop interface. It does not require extensive programming knowledge and is widely used for business analytics. SPSS Modeler includes various nodes for data processing and supports techniques like CHAID (Chi-square Automatic Interaction Detection) for building decision trees and identifying relationships between variables.
 
-SPSS Modeler provides various nodes for data processing, such as data import, data cleaning, transformation, and modeling techniques like decision trees, regression, and clustering. It is widely used for business analytics, customer insights, and decision-making processes.
-
-The tool supports techniques like CHAID (Chi-square Automatic Interaction Detection), which helps in identifying relationships between variables and generating decision trees for classification problems.
-SPSS Modeler is used to build a CHAID model to understand patterns and relationships in the Amazon e-commerce dataset.
+In this project, Python is used for coding-based data analysis and visualization, while SPSS Modeler is used for visual data exploration and model building. Together, these tools provide a comprehensive approach to understanding the dataset and extracting meaningful insights.
